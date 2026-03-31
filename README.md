@@ -17,6 +17,8 @@ The system converts front-view camera images into a top-down (BEV) representatio
 
 ## ⚙️ Pipeline
 Input Image → BEV Transformation (IPM) → Occupancy Detection → Grid Mapping
+
+
 ## 🧠 Methodology
 
 ### 1. Input Data
