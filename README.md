@@ -1,13 +1,13 @@
 #  Bird’s Eye View (BEV) Occupancy Mapping
 
-##  📌 Project Overview
+##   Project Overview
 This project implements a Bird’s Eye View (BEV) occupancy mapping system using classical computer vision techniques.
 
 The system converts front-view camera images into a top-down (BEV) representation using Inverse Perspective Mapping (IPM) and generates a 2D occupancy grid indicating free and occupied space. 
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Transform perspective camera images into BEV (top-down view)
 - Map road and obstacles onto a 2D ground plane
 - Generate an occupancy grid (free vs occupied space)
@@ -15,11 +15,11 @@ The system converts front-view camera images into a top-down (BEV) representatio
 
 ---
 
-## ⚙️ Pipeline
+##  Pipeline
 Input Image → BEV Transformation (IPM) → Occupancy Detection → Grid Mapping
 
 
-## 🧠 Methodology
+##  Methodology
 
 ### 1. Input Data
 - Front-view camera images from the nuScenes dataset
@@ -41,7 +41,7 @@ Input Image → BEV Transformation (IPM) → Occupancy Detection → Grid Mappin
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Python
 - OpenCV
 - NumPy
@@ -49,7 +49,7 @@ Input Image → BEV Transformation (IPM) → Occupancy Detection → Grid Mappin
 
 ---
 
-## 📊 Results
+##  Results
 
 The system produces:
 
@@ -60,20 +60,20 @@ The system produces:
 
 ---
 
-## ⚡ Performance
+##  Performance
 - Lightweight implementation (no deep learning models)
 - Runs efficiently on CPU (Google Colab)
 - Fast execution using geometric transformations
 
 ---
 
-## 📦 Dataset
+## Dataset
 We use the nuScenes dataset for input images.  
 Dataset is not included in this repository due to size and licensing restrictions.
 
 ---
 
-## 🚀 Future Scope
+##  Future Scope
 - Multi-camera BEV fusion  
 - Integration with LiDAR data  
 - Deep learning-based BEV models  
@@ -81,7 +81,7 @@ Dataset is not included in this repository due to size and licensing restriction
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 1. Upload an input image (from nuScenes dataset)
 2. Run the notebook step-by-step
 3. View outputs:
@@ -91,12 +91,12 @@ Dataset is not included in this repository due to size and licensing restriction
 
 ---
 
-## 📌 Note
+##  Note
 This is a simplified prototype developed for hackathon purposes, focusing on clarity, efficiency, and core BEV transformation concepts.
 
 ------
 
-## 👩‍💻 Team
+##  Team
 - Sunidhi P
 - Aashka Srivastava
 - Anjana Krishna
