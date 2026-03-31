@@ -1,9 +1,9 @@
-# 🚗 Bird’s Eye View (BEV) Occupancy Mapping
+#  Bird’s Eye View (BEV) Occupancy Mapping
 
-## 📌 Project Overview
+##  📌 Project Overview
 This project implements a Bird’s Eye View (BEV) occupancy mapping system using classical computer vision techniques.
 
-The system converts front-view camera images into a top-down (BEV) representation using Inverse Perspective Mapping (IPM) and generates a 2D occupancy grid indicating free and occupied space.
+The system converts front-view camera images into a top-down (BEV) representation using Inverse Perspective Mapping (IPM) and generates a 2D occupancy grid indicating free and occupied space. 
 
 ---
 
@@ -92,7 +92,7 @@ Dataset is not included in this repository due to size and licensing restriction
 ## 📌 Note
 This is a simplified prototype developed for hackathon purposes, focusing on clarity, efficiency, and core BEV transformation concepts.
 
----
+------
 
 ## 👩‍💻 Team
 - Sunidhi P
