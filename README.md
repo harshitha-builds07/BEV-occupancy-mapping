@@ -96,6 +96,6 @@ This is a simplified prototype developed for hackathon purposes, focusing on cla
 
 ## 👩‍💻 Team
 - Sunidhi P
-- Aashka Srivasatava
-- Anjana Krishnan
+- Aashka Srivastava
+- Anjana Krishna
 - Harshitha D
